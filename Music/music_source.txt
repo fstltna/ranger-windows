@@ -1,0 +1,54 @@
+
+----------------------------------------------
+TITLE MUSIC
+----------------------------------------------
+
+file:     pancakehouse.mp3
+musician: coda
+website:  http://coda.s3m.us
+
+----------------------------------------------
+GAME-OVER MUSIC
+----------------------------------------------
+
+file:     iam.mp3
+musician: coda
+website:  http://coda.s3m.us
+
+----------------------------------------------
+GAMEPLAY MUSIC
+----------------------------------------------
+
+file:     360589_adventure.mp3
+musician: Xenith800
+website:  http://xenith800.newgrounds.com/
+
+file:     328026_xenith800___savage.bypass.mp3
+musician: Xenith800
+website:  http://xenith800.newgrounds.com/
+
+file:     79257_newgrounds_dj_run
+musician: DJ Runaway
+website:  http://djrunaway.newgrounds.com/
+
+file:     380606_dnbmetalloop.mp3
+musician: Creast
+website:  http://creast.newgrounds.com/
+
+----------------------------------------------
+MISSION SUCCESS MUSIC
+----------------------------------------------
+
+file:     AMPOP.WAV
+musician: DeusX
+website:  http://deusx.com
+
+----------------------------------------------
+MISSION FAILED MUSIC
+----------------------------------------------
+
+file:     SYNTH.WAV
+musician: DeusX
+website:  http://deusx.com
+
+
